@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedram/CLionProjects/MultiThread/main.cpp
+iostream
+-
+time.h
+-
+math.h
+-
+thread
+-
+stdlib.h
+/home/pedram/CLionProjects/MultiThread/stdlib.h
+stdio.h
+/home/pedram/CLionProjects/MultiThread/stdio.h
+string.h
+/home/pedram/CLionProjects/MultiThread/string.h
+fstream
+-
+stdio.h
+-
+string.h
+-
+chrono
+-
+unistd.h
+-
+sys/mman.h
+-
+sys/times.h
+-
+sys/vtimes.h
+-
+

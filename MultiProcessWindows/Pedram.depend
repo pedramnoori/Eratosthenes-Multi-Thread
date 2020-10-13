@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510830270 source:c:\users\majid\desktop\pedram\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+

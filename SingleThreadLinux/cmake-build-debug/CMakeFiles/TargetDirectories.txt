@@ -1,0 +1,3 @@
+/home/pedram/CLionProjects/SingleThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pedram/CLionProjects/SingleThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pedram/CLionProjects/SingleThread/cmake-build-debug/CMakeFiles/untitled1.dir
